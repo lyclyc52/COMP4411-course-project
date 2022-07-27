@@ -61,6 +61,8 @@ It also includes CSG, caustics etc.
 
 https://github.com/lyclyc52/Animator
 
+![image-20220727125319746](README.assets/image-20220727125319746.png)
+
 Particle system and curving project.
 
  We did no implement quite a lot B&W due to time limitation.
