@@ -1,9 +1,9 @@
 # COMP4411-course-project
-The course projects of COMP4411 in Spring 2021. 
+The course projects of COMP4411 in Spring 2021. For each project, we design a user interface for a user to try.
 The course refers to [CS457](https://courses.cs.washington.edu/courses/cse457/21au/) of University of Washington. The contents of the project are basically the same.
 However, we still use FLTK to design our UI.
 
-You can use Visual Studio to open one of them and run. The `.exe` file will be in `Debug` folder.
+You can use Visual Studio to open one of them, compile and run. The `.exe` file will be in `Debug` folder.
 
 Since the key point of those projects is to implement those computer graphic algorithms, we do not handle many unexpected errors.
 
